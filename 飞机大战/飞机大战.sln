@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "飞机大战", "飞机大战.vcxproj", "{D164585E-4306-4D97-895E-A902F6370D65}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "..\Setup1\Setup1.vdproj", "{90AC8E08-B1D6-45D8-A340-AFDFC4B1B9AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D164585E-4306-4D97-895E-A902F6370D65}.Debug|x64.ActiveCfg = Debug|x64
+		{D164585E-4306-4D97-895E-A902F6370D65}.Debug|x64.Build.0 = Debug|x64
+		{D164585E-4306-4D97-895E-A902F6370D65}.Debug|x86.ActiveCfg = Debug|Win32
+		{D164585E-4306-4D97-895E-A902F6370D65}.Debug|x86.Build.0 = Debug|Win32
+		{D164585E-4306-4D97-895E-A902F6370D65}.Release|x64.ActiveCfg = Release|x64
+		{D164585E-4306-4D97-895E-A902F6370D65}.Release|x64.Build.0 = Release|x64
+		{D164585E-4306-4D97-895E-A902F6370D65}.Release|x86.ActiveCfg = Release|Win32
+		{D164585E-4306-4D97-895E-A902F6370D65}.Release|x86.Build.0 = Release|Win32
+		{90AC8E08-B1D6-45D8-A340-AFDFC4B1B9AA}.Debug|x64.ActiveCfg = Debug
+		{90AC8E08-B1D6-45D8-A340-AFDFC4B1B9AA}.Debug|x86.ActiveCfg = Debug
+		{90AC8E08-B1D6-45D8-A340-AFDFC4B1B9AA}.Release|x64.ActiveCfg = Release
+		{90AC8E08-B1D6-45D8-A340-AFDFC4B1B9AA}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FF66224-E1F6-47A4-A76A-F4FFCD0F51E4}
+	EndGlobalSection
+EndGlobal
